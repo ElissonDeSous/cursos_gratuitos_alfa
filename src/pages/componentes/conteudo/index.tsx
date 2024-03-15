@@ -17,7 +17,8 @@ export default function conteudo(){
                 
                 <ul>
                    <li>
-                      <Link className="h-[500px]" href='https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm' target="blank">
+                      <Link className="h-[500px]" href='https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n' target="blank">
+                      
                         <img className="image" src="./htmlcsss.png"  height="100px"  alt="" />
                        <div className="flex  items-center justify-center h-[50px]">
                        <strong className=" bg-violet-500 flex justify-center items-center h-[20px]  font-bold">HTML e CSS</strong>
@@ -34,7 +35,7 @@ export default function conteudo(){
                 
                 <ul>
                    <li>
-                      <Link className="h-[500px]" href='https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n' target="blank">
+                      <Link className="h-[500px]" href='https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm' target="blank">
                         <img className="image" src="./javascript.png"  height="100px"  alt="" />
                        <div className="flex  items-center justify-center h-[50px]">
                        <strong className=" bg-violet-500 flex justify-center items-center h-[20px]  font-bold">Java Script</strong>
