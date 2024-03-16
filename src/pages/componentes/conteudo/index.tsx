@@ -17,7 +17,7 @@ export default function conteudo(){
                 
                 <ul>
                    <li>
-                      <Link className="h-[500px]" href='https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n' target="blank">
+                      <Link className="h-[500px]" href='/paginas/html_css/modulos' target="blank">
                       
                         <img className="image" src="./htmlcsss.png"  height="100px"  alt="" />
                        <div className="flex  items-center justify-center h-[50px]">
