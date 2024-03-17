@@ -27,7 +27,7 @@ export default function ExerciciosHTML(){
                  <div className=' flex flex-col justify-center items-center bg-violet-700 w-[800px] h-[150px]  font-bold tex rounded-s-lg	pr-[20px]' 
                  >
                        <h2 className='text-[20px] text-black'>Atualizando seu site de filmes</h2>
-                   <div className='w-[700px]'>3- Coloque um trailer para cada filme utilizando as tags do YouTube<br /> <br />Explicação: Acesse o YouTube, escolha o trailer do seu filme, clique em "Compartilhar" e depois em "Incorporar". Copie e cole as tags HTML no seu editor de códigos</div> 
+                   <div className='w-[700px]'>3- Coloque um trailer para cada filme utilizando as tags do YouTube<br /> <br />Explicação: Acesse o YouTube, escolha o trailer do seu filme, clique em  Compartilhar  e depois em Incorporar. Copie e cole as tags HTML no seu editor de códigos</div> 
                    
                    </div>
             </div>
